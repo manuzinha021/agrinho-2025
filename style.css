@@ -141,7 +141,7 @@ font-size: 30px;
 
 /* estilo seção 3*/
 .secao3__imagem {
-background-image: url("img/terra.png;
+background-image: url("img/terra.png")
 }
 .secao3__texto {
 margin: 30% 0 30% 0;
@@ -219,7 +219,7 @@ min-width: 100px;
 .contador-digito-numero{
 font-size: 80px;
 margin: 0;
-}
+}produção deescrição materia prima
 .contador-digito-texto{
 color: var(--preto-titulo);
 font-size: 20px;
@@ -269,7 +269,7 @@ border-radius: 5%;
 @media (min-width: 320px) and (max-width: 480px) {
 /* estilo cabeçalho */
 .logo__principal {
-width: 80%;
+width: 80%;produção deescrição materia prima
 }
 .texto__cabecalho {
 text-align: center;
